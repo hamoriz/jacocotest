@@ -11,6 +11,7 @@
     <modules>
         <module>child1</module>
       <module>child2</module>
+      <module>aggregator</module>
     </modules>
 
     <name>jacocotest</name>
